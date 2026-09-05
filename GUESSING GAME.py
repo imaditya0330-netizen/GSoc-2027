@@ -1,4 +1,3 @@
-#loop
 print("Number guessing game")
 print("guess between 1 - 100")
 guess = int(input("enter number:"))
